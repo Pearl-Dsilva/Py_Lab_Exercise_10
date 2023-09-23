@@ -6,6 +6,7 @@ and other necessary widgets required for your domain.
 ➔ Validate Your Name, Email Id, Phone number in the form.
 
 ![Screenshot](https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104619.png)
-
-https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104635.png
-
+##### on clicking Submit, if data is valid
+![Screenshot](https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104635.png)
+##### on clicking ok, displays data regarding zoo
+![Screenshot](https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104642.png)
