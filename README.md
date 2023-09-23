@@ -7,3 +7,5 @@ and other necessary widgets required for your domain.
 
 ![Screenshot](https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104619.png)
 
+https://github.com/Pearl-Dsilva/Py_Lab_Exercise_10/blob/main/Screenshot%202023-09-23%20104635.png
+
